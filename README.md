@@ -89,11 +89,6 @@ Lalu aktifkan service di Firebase Console:
 
 ---
 
-## 🖼️ Screenshot / Demo
-> *(Tambahkan screenshot UI agar README lebih menarik)*
-
----
-
 ## 🤝 Kontribusi
 
 Kontribusi sangat terbuka. Fork repository → buat fitur baru → Pull Request 🚀
